@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renushri Rawat</h1>
 <h3 align="center">For now working on some cool projects to showcase my skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-gif-25868426">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81512748/226973227-b50f3b87-6b3d-4355-a483-82baa3c12904.png
+">
 - 📫 How to reach me **renushri.rawat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
