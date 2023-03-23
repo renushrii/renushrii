@@ -1,8 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)](https://renushrii.io)
 <h1 align="center">Hi 👋, I'm Renushri Rawat</h1>
 <h3 align="center">For now working on some cool projects to showcase my skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81512748/226973227-b50f3b87-6b3d-4355-a483-82baa3c12904.png
-">
+<img align="right" alt="Coding" width="400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" 
 - 📫 How to reach me **renushri.rawat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
